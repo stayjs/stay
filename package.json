@@ -1,0 +1,30 @@
+{
+  "name": "stay",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lin-hun/stay.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lin-hun/stay/issues"
+  },
+  "homepage": "https://github.com/lin-hun/stay#readme",
+  "dependencies": {
+    "snabbdom": "^0.7.1"
+  },
+  "devDependencies": {
+    "jasmine-core": "^3.1.0",
+    "karma": "^2.0.4",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-jasmine": "^1.1.2"
+  }
+}
