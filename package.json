@@ -6,8 +6,7 @@
   "directories": {
     "test": "test"
   },
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/lin-hun/stay.git"
@@ -22,9 +21,6 @@
     "snabbdom": "^0.7.1"
   },
   "devDependencies": {
-    "jasmine-core": "^3.1.0",
-    "karma": "^2.0.4",
-    "karma-chrome-launcher": "^2.2.0",
-    "karma-jasmine": "^1.1.2"
+    "jest": "^23.3.0"
   }
 }
