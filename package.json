@@ -17,10 +17,11 @@
     "url": "https://github.com/lin-hun/stay/issues"
   },
   "homepage": "https://github.com/lin-hun/stay#readme",
-  "dependencies": {
-    "snabbdom": "^0.7.1"
-  },
+  "dependencies": {},
   "devDependencies": {
+    "nightwatch": "^0.9.21",
+    "chromedriver": "^2.40.0",
+    "selenium-server": "^3.8.1",
     "jest": "^23.3.0"
   }
 }
