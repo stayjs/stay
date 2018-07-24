@@ -17,7 +17,10 @@
     "url": "https://github.com/lin-hun/stay/issues"
   },
   "homepage": "https://github.com/lin-hun/stay#readme",
-  "dependencies": {},
+  "dependencies": {
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1"
+  },
   "devDependencies": {
     "nightwatch": "^0.9.21",
     "chromedriver": "^2.40.0",

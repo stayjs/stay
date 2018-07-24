@@ -1,0 +1,6 @@
+<!--index.wxml-->
+<view class="container">
+<div>ssss</div>
+<p>这是一个p标签</p>
+
+</view>
